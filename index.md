@@ -1,6 +1,6 @@
-## solkat consulting 
+# solkat consulting 
 
-# contract architecture, development and deployment 
+### contract architecture, development and deployment 
 
 to inquire for availability and quotes, contact: steve@solkat.xyz
 
