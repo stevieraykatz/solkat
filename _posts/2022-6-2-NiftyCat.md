@@ -2,7 +2,7 @@
 layout: post
 title: NiftyCat
 description: Web3-empowered Ecommerce 
-image: assets/images/niftycat.PNG
+image: assets/images/niftycat.png
 link: "https://www.niftycat.com/"
 ---
 

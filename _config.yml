@@ -11,7 +11,7 @@ city:
 state: Sunny California
 zip_code: 
 country: 
-phone: (408) 728-0462
+phone:
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
