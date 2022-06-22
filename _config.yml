@@ -1,1 +1,44 @@
-theme: jekyll-theme-minimal
+# site settings
+title: Solkat Consulting
+subtitle: architecture - development - deployment
+email: steve@solkat.xyz
+description: Blockchain solutions custom-tailored to your business needs
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: solkat.eth
+city: 
+state: Sunny California
+zip_code: 
+country: 
+phone: (408) 728-0462
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/stevieraykatz
+  GitLab:
+  Google-Plus: 
+  Instagram:
+  LinkedIn:
+  Twitter: 
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 

@@ -1,0 +1,11 @@
+---
+layout: post
+title: NiftyCat
+description: Web3-empowered Ecommerce 
+image: assets/images/niftycat.PNG
+link: "https://www.niftycat.com/"
+---
+
+Architected and implemented a versatile ERC1155 contract for this nascent web3 startup. They aspire to bring the power of tokenization to all shopify storefronts. 
+
+After multiple meetings with the technical and management teams, we were able to find a contract architecture that would unlock them for their proof of concept implementation. Since many of their earliest users won't be web3-native, we needed to solve the "custody problem". We accomplished this by storing tokens on the contract itself. With a backend hook, the NiftyCat platform can send users their tokens if they so desire. 
