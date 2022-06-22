@@ -7,8 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: solkat.eth
+discord: katzman#7777
 city: 
-state: Sunny California
+state: sunny california
 zip_code: 
 country: 
 phone:
@@ -30,6 +31,7 @@ socials:
   Twitter: 
   Facebook:
   Slack:
+  Discord: katzman#7777
 
 # build settings
 markdown: kramdown

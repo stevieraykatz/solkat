@@ -3,7 +3,7 @@ layout: home
 title:
 landing-title: 'Web3 beckons'
 description: null
-image: null
+image: assets/images/forest.jpg
 author: null
 show_tile: false
 ---
