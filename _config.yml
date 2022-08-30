@@ -1,7 +1,7 @@
 # site settings
 title: Solkat Consulting
 subtitle: architecture - development - deployment
-email: steve@solkat.xyz
+email: sales@solkat.xyz
 description: Blockchain solutions custom-tailored to your business needs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -12,7 +12,7 @@ city:
 state: sunny california
 zip_code: 
 country: 
-phone:
+phone: (510) 214-3310
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

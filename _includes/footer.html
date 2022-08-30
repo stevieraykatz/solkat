@@ -26,6 +26,17 @@
 					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 				</div>
 			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<h3>phone</h3>
+					<span>
+						{% if site.phone %}
+					    	{{ site.phone }}<br />
+						{% endif %}
+					</span>
+				</div>
+			</section>
 			<!-- <section>
 				<div class="contact-method">
 					<span class="icon alt fa-discord"></span>
