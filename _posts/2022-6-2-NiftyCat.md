@@ -3,7 +3,7 @@ layout: post
 title: NiftyCat
 description: Web3-empowered Ecommerce 
 image: assets/images/niftycat.png
-link: "https://www.niftycat.com/"
+link: 
 ---
 
 Architected and implemented a versatile ERC1155 contract for this nascent web3 startup. They aspire to bring the power of tokenization to all shopify storefronts. 
