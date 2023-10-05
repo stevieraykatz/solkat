@@ -12,7 +12,7 @@ city:
 state: sunny california
 zip_code: 
 country: 
-phone: (510) 214-3310
+phone:
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
